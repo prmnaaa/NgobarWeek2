@@ -11,4 +11,7 @@ Untuk mendownload codingan di repository ini.
 ```bash
   git clone https://github.com/prmnaaa/NgobarWeek2.git
 ```
-    
+
+## Materi ngobar week 2
+
+- [Link Materi](https://docs.google.com/document/d/1Re7Q8gvYWyuu-fybHk96tnUfzwGfVs3tvCuTaNfWy-A/edit?usp=sharing)
